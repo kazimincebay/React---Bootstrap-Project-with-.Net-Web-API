@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|c:\\users\\kazim\\onedrive\\belgeler\\github\\react---bootstrap-project-with-.net-web-api\\web api\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61D6D50-DD04-4036-9F88-D5DCFE6A29BA}|WebAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:04:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:59:14.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:13:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\kazim\\OneDrive\\Belgeler\\GitHub\\React---Bootstrap-Project-with-.Net-Web-API\\Web API\\WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T18:12:56.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
